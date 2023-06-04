@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62ada4d7-3c43-44cf-a6b2-75b2429cfebd" name="Changes" comment="new homework Exceptions">
-      <change afterPath="$PROJECT_DIR$/src/homework_OOP/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_OOP/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_OOP/Square.java" afterDir="false" />
+    <list default="true" id="62ada4d7-3c43-44cf-a6b2-75b2429cfebd" name="Changes" comment="OOP homework">
+      <change afterPath="$PROJECT_DIR$/src/homework_OOP/Employee/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_OOP/Employee/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_OOP/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworkConstructors/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_Exceptions/FixCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_OOP/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_OOP/Circle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.homework_OOP.Employee.Main">
     <configuration name="Exercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework_Exceptions.Exercises" />
       <module name="Homework and Exercises" />
@@ -56,8 +57,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FixCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_Exceptions.FixCode" />
+      <module name="Homework and Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework_Exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_OOP.Main" />
+      <module name="Homework and Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework_OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homework_OOP.Employee.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_OOP.Employee.Main" />
+      <module name="Homework and Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework_OOP.Employee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homework_OOP.Employee.Main" />
+        <item itemvalue="Application.Main_for_OOP" />
+        <item itemvalue="Application.FixCode" />
         <item itemvalue="Application.Exercises" />
       </list>
     </recent_temporary>
@@ -78,11 +121,19 @@
       <option name="project" value="LOCAL" />
       <updated>1685890235325</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="OOP homework">
+      <created>1685891334716</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685891334716</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new homework Exceptions" />
-    <option name="LAST_COMMIT_MESSAGE" value="new homework Exceptions" />
+    <MESSAGE value="OOP homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP homework" />
   </component>
 </project>
