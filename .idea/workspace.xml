@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62ada4d7-3c43-44cf-a6b2-75b2429cfebd" name="Changes" comment="OOP practice homework changes">
-      <change afterPath="$PROJECT_DIR$/src/homework_Exceptions/CodeFix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_Exceptions/Exercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_Exceptions/Exercises.java" afterDir="false" />
-    </list>
+    <list default="true" id="62ada4d7-3c43-44cf-a6b2-75b2429cfebd" name="Changes" comment="rename and add exceptions homework" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,8 +37,8 @@
   }
 }</component>
   <component name="RunManager" selected="Application.homework_OOP_practice.Main">
-    <configuration name="Exercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework_Exceptions.Exercises" />
+    <configuration name="DivideNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_Exceptions.DivideNumbers" />
       <module name="Homework and Exercises" />
       <extension name="coverage">
         <pattern>
@@ -112,7 +108,7 @@
         <item itemvalue="Application.homework_OOP.Employee.Main" />
         <item itemvalue="Application.Main_for_OOP" />
         <item itemvalue="Application.FixCode" />
-        <item itemvalue="Application.Exercises" />
+        <item itemvalue="Application.DivideNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -167,13 +163,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685964344524</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="rename and add exceptions homework">
+      <created>1685969692562</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1685969692562</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new homework Exceptions" />
     <MESSAGE value="OOP homework" />
     <MESSAGE value="OOP practice homework changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOP practice homework changes" />
+    <MESSAGE value="rename and add exceptions homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename and add exceptions homework" />
   </component>
 </project>
