@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62ada4d7-3c43-44cf-a6b2-75b2429cfebd" name="Changes" comment="OOP homework">
-      <change afterPath="$PROJECT_DIR$/src/homework_OOP_practice/Bulgarian.java" afterDir="false" />
+    <list default="true" id="62ada4d7-3c43-44cf-a6b2-75b2429cfebd" name="Changes" comment="OOP practice homework changes">
+      <change afterPath="$PROJECT_DIR$/src/homework_OOP_practice/American.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_OOP_practice/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_OOP_practice/Italian.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_OOP_practice/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_OOP_practice/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_OOP_practice/Bulgarian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_OOP_practice/Bulgarian.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,12 +155,20 @@
       <option name="project" value="LOCAL" />
       <updated>1685902826816</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="OOP practice homework changes">
+      <created>1685963245541</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685963245541</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new homework Exceptions" />
     <MESSAGE value="OOP homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOP homework" />
+    <MESSAGE value="OOP practice homework changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP practice homework changes" />
   </component>
 </project>
