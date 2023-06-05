@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62ada4d7-3c43-44cf-a6b2-75b2429cfebd" name="Changes" comment="OOP practice homework changes">
-      <change afterPath="$PROJECT_DIR$/src/homework_OOP_practice/American.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_OOP_practice/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_OOP_practice/Italian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_Exceptions/CodeFix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_OOP_practice/Bulgarian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_OOP_practice/Bulgarian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_Exceptions/Exercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_Exceptions/Exercises.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685963245541</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="OOP practice homework changes">
+      <created>1685964344524</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685964344524</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
