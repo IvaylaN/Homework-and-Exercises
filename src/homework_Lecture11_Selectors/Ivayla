@@ -1,0 +1,22 @@
+profile -  first line elements
+
+1. $x('//img[@id = "homeIcon"]')
+$$('#homeIcon')
+
+2. $x('//li/a[@id="nav-link-home"]')
+$$('#nav-link-home')
+
+3. $x('//li/a[@id="nav-link-profile"]')
+$$('#nav-link-profile')
+
+4. $x('//li/a[@id="nav-link-new-post"]')
+$$('#nav-link-new-post')
+
+5. $x('//input[@id="search-bar"]')
+$$('#search-bar')
+
+6. $x('//i[@class="fas fa-search"]')
+$$('.fas.fa-search')
+
+7. $x('//i[@class="fas fa-sign-out-alt fa-lg"]')
+$$('.fas.fa-sign-out-alt.fa-lg')
