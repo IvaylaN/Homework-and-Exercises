@@ -1,4 +1,4 @@
-package homework_OOP;
+package homework_Lecture8_OOP;
 public class Main {
     public static void main(String[] args) {
         Circle s1 = new Circle();

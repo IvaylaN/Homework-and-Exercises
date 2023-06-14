@@ -1,4 +1,4 @@
-package homework_OOP_practice;
+package homework_Lecture9_OOPpractice;
 
 public class American extends Person{
     public American(String name, String sex, String religion, String languageSpoken, boolean hasJob, String nationality, long EGN, String countryOfResidence) {

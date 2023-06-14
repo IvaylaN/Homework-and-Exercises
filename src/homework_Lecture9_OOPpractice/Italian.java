@@ -1,4 +1,4 @@
-package homework_OOP_practice;
+package homework_Lecture9_OOPpractice;
 
 public class Italian extends Person{
 

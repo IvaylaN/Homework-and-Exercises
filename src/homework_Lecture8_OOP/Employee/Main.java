@@ -1,4 +1,4 @@
-package homework_OOP.Employee;
+package homework_Lecture8_OOP.Employee;
 
 public class Main {
     public static void main(String[] args) {

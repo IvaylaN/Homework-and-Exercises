@@ -1,4 +1,4 @@
-package homework_OOP.Employee;
+package homework_Lecture8_OOP.Employee;
 
 public class Employee {
     private int id;
