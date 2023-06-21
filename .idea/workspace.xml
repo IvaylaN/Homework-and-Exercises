@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62ada4d7-3c43-44cf-a6b2-75b2429cfebd" name="Changes" comment="delete branches, new packages for first homeworks">
+    <list default="true" id="62ada4d7-3c43-44cf-a6b2-75b2429cfebd" name="Changes" comment="add selectors homework">
+      <change afterPath="$PROJECT_DIR$/src/homework_Lecture12_WebDriver/firstTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_Lecture11_Selectors/Ivayla" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_Lecture11_Selectors/Ivayla" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,11 +36,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Ivayla/Desktop/Skillo Homework/Homework-and-Exercises"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.homework_Lecture9_OOPpractice.Main">
     <configuration name="DivideNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework_Exceptions.DivideNumbers" />
@@ -178,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686744497386</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add selectors homework">
+      <created>1686745026032</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1686745026032</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -187,6 +198,7 @@
     <MESSAGE value="OOP practice homework changes" />
     <MESSAGE value="rename and add exceptions homework" />
     <MESSAGE value="delete branches, new packages for first homeworks" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete branches, new packages for first homeworks" />
+    <MESSAGE value="add selectors homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="add selectors homework" />
   </component>
 </project>
