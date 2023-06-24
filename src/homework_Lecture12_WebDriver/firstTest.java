@@ -1,3 +1,4 @@
+/*
 package homework_Lecture12_WebDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
@@ -49,3 +50,4 @@ public class firstTest {
     }
 }
 
+*/

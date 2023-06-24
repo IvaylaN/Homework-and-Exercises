@@ -36,13 +36,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Ivayla/Desktop/Skillo Homework/Homework-and-Exercises"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ivayla/Desktop/Skillo Homework/Homework-and-Exercises&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.homework_Lecture9_OOPpractice.Main">
+}</component>
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="DivideNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework_Exceptions.DivideNumbers" />
       <module name="Homework and Exercises" />
@@ -69,15 +69,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework_Lecture8_OOP.Main" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Homework and Exercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework_Lecture8_OOP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -110,6 +104,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.homework_Lecture9_OOPpractice.Main" />
         <item itemvalue="Application.homework_Lecture8_OOP.Employee.Main" />
         <item itemvalue="Application.FixCode" />

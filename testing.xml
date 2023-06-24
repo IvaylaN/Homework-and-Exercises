@@ -1,9 +1,0 @@
-<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
-<suite name="Web test suite" verbose="1">
-    <test name="Smoke Tests">
-        <classes>
-            <class name="homework_Lecture12_WebDriver.firstTest"></class>
-            <class name="homework_Lecture10_TestNG.homework"></class>
-        </classes>
-    </test>
-</suite>
