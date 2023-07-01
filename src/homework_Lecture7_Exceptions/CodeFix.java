@@ -1,4 +1,4 @@
-package homework_Exceptions;
+package homework_Lecture7_Exceptions;
 
 import java.io.FileWriter;
 import java.io.IOException;

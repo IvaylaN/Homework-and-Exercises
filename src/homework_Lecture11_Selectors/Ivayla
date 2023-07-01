@@ -16,7 +16,7 @@ $$('#nav-link-new-post')
 $$('#search-bar')
 
 6. $x('//i[@class="fas fa-search"]')
-$$('.fas.fa-search')
+$$('i.fas.fa-search')
 
 7. $x('//i[@class="fas fa-sign-out-alt fa-lg"]')
-$$('.fas.fa-sign-out-alt.fa-lg')
+$$('i.fas.fa-sign-out-alt.fa-lg')
