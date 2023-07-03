@@ -1,4 +1,3 @@
-/*
 package homework_Lecture10_TestNG;
 
 import org.testng.Assert;
@@ -107,4 +106,3 @@ public class homework {
         }
     }
 }
-*/
