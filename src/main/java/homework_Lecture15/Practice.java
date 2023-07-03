@@ -1,4 +1,4 @@
-package lecture15;
+package homework_Lecture15;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.Alert;

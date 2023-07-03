@@ -4,43 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62ada4d7-3c43-44cf-a6b2-75b2429cfebd" name="Changes" comment="changes">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture10/Homework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture12/Practice_homewrok.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture14/Homework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture14/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture15/Homework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture15/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture16/Homework.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_Lecture10_TestNG/homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework_Lecture10_TestNG/homework.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_Lecture11_Selectors/Ivayla" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework_Lecture11_Selectors/Ivayla" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_Lecture12_WebDriver/firstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework_Lecture12_WebDriver/firstTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_Lecture2/exercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework_Lecture2/exercises.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_Lecture4/exercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework_Lecture4/exercises.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_Lecture5/exercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework_Lecture5/exercises.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_Lecture6/exercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework_Lecture6/exercises.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_Lecture7_Constructors/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework_Lecture7_Constructors/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_Lecture7_Constructors/Car_examples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework_Lecture7_Constructors/Car_examples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_Lecture7_Exceptions/CodeFix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework_Lecture7_Exceptions/CodeFix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_Lecture7_Exceptions/DivideNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework_Lecture7_Exceptions/DivideNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_Lecture8_OOP/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework_Lecture8_OOP/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_Lecture8_OOP/Employee/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework_Lecture8_OOP/Employee/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_Lecture8_OOP/Employee/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework_Lecture8_OOP/Employee/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_Lecture8_OOP/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework_Lecture8_OOP/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_Lecture8_OOP/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework_Lecture8_OOP/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_Lecture8_OOP/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework_Lecture8_OOP/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_Lecture9_OOPpractice/American.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework_Lecture9_OOPpractice/American.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_Lecture9_OOPpractice/Bulgarian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework_Lecture9_OOPpractice/Bulgarian.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_Lecture9_OOPpractice/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework_Lecture9_OOPpractice/Child.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_Lecture9_OOPpractice/Italian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework_Lecture9_OOPpractice/Italian.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_Lecture9_OOPpractice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework_Lecture9_OOPpractice/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_Lecture9_OOPpractice/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework_Lecture9_OOPpractice/Person.java" afterDir="false" />
-    </list>
+    <list default="true" id="62ada4d7-3c43-44cf-a6b2-75b2429cfebd" name="Changes" comment="changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -247,8 +211,26 @@
       <option name="project" value="LOCAL" />
       <updated>1688224089974</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="changes">
+      <created>1688382742531</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1688382742531</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

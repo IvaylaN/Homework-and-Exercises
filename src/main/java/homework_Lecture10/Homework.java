@@ -1,9 +1,10 @@
-package homework_Lecture10_TestNG;
+package homework_Lecture10;
 
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
-public class homework {
+
+public class Homework {
     @DataProvider(name = "additionNumbers")
     public Object[][] generateAdditionNumbers() {
         Object[][] numbers = {

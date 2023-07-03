@@ -1,4 +1,4 @@
-package lecture14;
+package homework_Lecture15.lecture14;
 
 // Test scenario ID:1 - Successful register
 // 1. Navigate to the Login page
