@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62ada4d7-3c43-44cf-a6b2-75b2429cfebd" name="Changes" comment="changes">
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework_Lecture16/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework_Lecture16/pages/Header.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework_Lecture16/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework_Lecture16/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework_Lecture16/pages/ProfilePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework_Lecture12/Practice_homewrok.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework_Lecture12/Practice_homewrok.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework_Lecture15/Homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework_Lecture15/Homework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework_Lecture16/Homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework_Lecture16/tests/Practise_Homework.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,38 +54,18 @@
     "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.Practice_homewrok.loginTest">
-    <configuration name="Car_examples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework_Lecture7_Constructors.Car_examples" />
+  <component name="RunManager" selected="TestNG.Homework.dynamicLoadedPageElement">
+    <configuration name="Homework.dropdown" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="HomeworkAndExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework_Lecture7_Constructors.*" />
+          <option name="PATTERN" value="homework_Lecture15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Homework and Exercises" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Homework.sum" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="HomeworkAndExercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework_Lecture10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="lecture10" />
-      <option name="MAIN_CLASS_NAME" value="homework_Lecture10.Homework" />
-      <option name="METHOD_NAME" value="sum" />
+      <option name="PACKAGE_NAME" value="homework_Lecture15" />
+      <option name="MAIN_CLASS_NAME" value="homework_Lecture15.Homework" />
+      <option name="METHOD_NAME" value="dropdown" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -87,17 +73,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice_homewrok.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Homework.dynamicLoadedPageElement" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="HomeworkAndExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework_Lecture12.*" />
+          <option name="PATTERN" value="homework_Lecture15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="homework_Lecture12" />
-      <option name="MAIN_CLASS_NAME" value="homework_Lecture12.Practice_homewrok" />
-      <option name="METHOD_NAME" value="loginTest" />
+      <option name="PACKAGE_NAME" value="homework_Lecture15" />
+      <option name="MAIN_CLASS_NAME" value="homework_Lecture15.Homework" />
+      <option name="METHOD_NAME" value="dynamicLoadedPageElement" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -105,17 +91,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="firstTest.firstTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Homework.testCheckBox" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="HomeworkAndExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework_Lecture12_WebDriver.*" />
+          <option name="PATTERN" value="homework_Lecture15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="homework_Lecture12_WebDriver" />
-      <option name="MAIN_CLASS_NAME" value="homework_Lecture12_WebDriver.firstTest" />
-      <option name="METHOD_NAME" value="firstTest" />
+      <option name="PACKAGE_NAME" value="homework_Lecture15" />
+      <option name="MAIN_CLASS_NAME" value="homework_Lecture15.Homework" />
+      <option name="METHOD_NAME" value="testCheckBox" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practise_Homework" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HomeworkAndExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework_Lecture16.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homework_Lecture16.tests" />
+      <option name="MAIN_CLASS_NAME" value="homework_Lecture16.tests.Practise_Homework" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practise_Homework.LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HomeworkAndExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework_Lecture16.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homework_Lecture16.tests" />
+      <option name="MAIN_CLASS_NAME" value="homework_Lecture16.tests.Practise_Homework" />
+      <option name="METHOD_NAME" value="LoginTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -125,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Practice_homewrok.loginTest" />
-        <item itemvalue="TestNG.Homework.sum" />
-        <item itemvalue="Application.Car_examples" />
-        <item itemvalue="TestNG.firstTest.firstTest" />
-        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="TestNG.Homework.dynamicLoadedPageElement" />
+        <item itemvalue="TestNG.Homework.dropdown" />
+        <item itemvalue="TestNG.Homework.testCheckBox" />
+        <item itemvalue="TestNG.Practise_Homework.LoginTest" />
+        <item itemvalue="TestNG.Practise_Homework" />
       </list>
     </recent_temporary>
   </component>
@@ -233,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688403672667</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="changes">
+      <created>1688813341970</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1688813341970</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -241,7 +269,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/testBranch" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
