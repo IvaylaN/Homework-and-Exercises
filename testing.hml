@@ -1,0 +1,7 @@
+<suite name="Homework tests" verbose="1">
+    <test name="Tests">
+        <classes>
+            <class name=""></class>
+        </classes>
+    </test>
+</suite>
