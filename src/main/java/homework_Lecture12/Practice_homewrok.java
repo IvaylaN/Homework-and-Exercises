@@ -16,6 +16,7 @@ import java.time.Duration;
 public class Practice_homewrok {
     ChromeDriver driver;
     final String URL = "http://training.skillo-bg.com/";
+    final String HOME_URL = URL + "posts/all";
 
     // 0. Load Skillo site http://training.skillo-bg.com/ - Done
     // 1. Check Skillo logo element is visible - - Done
@@ -57,7 +58,7 @@ public class Practice_homewrok {
         WebElement loginBtn = driver.findElement(By.id("nav-link-login"));
         loginBtn.click();
 
-        System.out.println(" 3. Validate that the URL is correct");
+        System.out.println("3. Validate that the URL is correct");
         // String actualLoginPageURL = driver.getCurrentUrl();
         String expectedLoginPageURL = "http://training.skillo-bg.com/users/login";
         //  Assert.assertEquals(actualLoginPageURL, expectedLoginPageURL ,"Login URL is not correct");
@@ -67,55 +68,46 @@ public class Practice_homewrok {
         WebElement SignBtn = driver.findElement(By.xpath("//p[text()='Sign in']"));
         Assert.assertTrue(SignBtn.isDisplayed(), "Sign Btn icon is not visible");
 
-        System.out.println(" 5. Enter user name");
+        System.out.println("5. Enter user name");
         WebElement userName = driver.findElement(By.name("usernameOrEmail"));
         userName.clear();
         userName.sendKeys("auto_user");
 
-        System.out.println(" 6. Enter pass");
+        System.out.println("6. Enter pass");
         WebElement pass = driver.findElement(By.id("defaultLoginFormPassword"));
         pass.clear();
         pass.sendKeys("auto_pass");
 
-        System.out.println(" 7. Select remember me btn");
+        System.out.println("7. Select remember me btn");
         WebElement rememberBtn = driver.findElement(By.cssSelector(".remember-me-button"));
         rememberBtn.click();
         Assert.assertTrue(rememberBtn.isSelected(), "Btn is selected");
 
-        System.out.println("Click sign in and check the btn is enabled");
+        System.out.println("8. Click sign in and check the btn is enabled");
         WebElement signInBtn = driver.findElement(By.id("sign-in-button"));
 
         System.out.println("Sign in is enabled");
         Assert.assertTrue(signInBtn.isEnabled(), "Btn is enabled");
         signInBtn.click();
 
-        System.out.println("Validate that the logout btn is visible ");
+        System.out.println("9. Validate that the logout btn is visible ");
         WebElement logOutBtn = driver.findElement(By.cssSelector(".fa-sign-out-alt"));
         Assert.assertTrue(logOutBtn.isDisplayed(), "logOutBtn icon is not visible");
 
-        System.out.println("Validate that the Profile tab is visible ");
+        // Homework
+
+        System.out.println("10. Validate that the Profile tab is visible ");
         WebElement profileTab = driver.findElement(By.id("nav-link-profile"));
         Assert.assertTrue(profileTab.isDisplayed(), "ProfileTab is not visible");
 
-        System.out.println(" Validate that the new post btn is visible");
+        System.out.println("11. Validate that the new post btn is visible");
         WebElement newPost = driver.findElement(By.cssSelector(".nav-link"));
         Assert.assertTrue(newPost.isDisplayed(), "NewPost is not visible");
 
-        String currentURL = driver.getCurrentUrl();
-        String actualURL = "http://training.skillo-bg.com/posts/all";
-        Assert.assertEquals(currentURL, actualURL, "URL is not correct");
-
-        // Homework
-
-        WebElement homeLogoElement = driver.findElement(By.id("homeIcon"));
-        Assert.assertTrue(homeLogoElement.isDisplayed(), "Logo icon is not visible");
-
-        WebElement logBtn = driver.findElement(By.id("nav-link-login"));
-        logBtn.click();
-
-        /*String correctURL = "http://training.skillo-bg.com/users";
-        wait.until(ExpectedConditions.urlToBe(correctURL));*/
+        System.out.println("12. Validate that the URL is correct");
+        wait.until(ExpectedConditions.urlToBe(HOME_URL));
     }
+
     @AfterMethod
     public void cleanup() {
         driver.close();

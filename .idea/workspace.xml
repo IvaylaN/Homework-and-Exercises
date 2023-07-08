@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62ada4d7-3c43-44cf-a6b2-75b2429cfebd" name="Changes" comment="changes" />
+    <list default="true" id="62ada4d7-3c43-44cf-a6b2-75b2429cfebd" name="Changes" comment="changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework_Lecture12/Practice_homewrok.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework_Lecture12/Practice_homewrok.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +48,7 @@
     "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.Homework.sum">
+  <component name="RunManager" selected="TestNG.Practice_homewrok.loginTest">
     <configuration name="Car_examples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework_Lecture7_Constructors.Car_examples" />
       <module name="HomeworkAndExercises" />
@@ -66,30 +69,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homework_Lecture9_OOPpractice.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework_Lecture9_OOPpractice.Main" />
-      <module name="Homework and Exercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework_Lecture9_OOPpractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Homework.sum" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="HomeworkAndExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture10.*" />
+          <option name="PATTERN" value="homework_Lecture10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="lecture10" />
-      <option name="MAIN_CLASS_NAME" value="lecture10.Homework" />
+      <option name="MAIN_CLASS_NAME" value="homework_Lecture10.Homework" />
       <option name="METHOD_NAME" value="sum" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice_homewrok.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HomeworkAndExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework_Lecture12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homework_Lecture12" />
+      <option name="MAIN_CLASS_NAME" value="homework_Lecture12.Practice_homewrok" />
+      <option name="METHOD_NAME" value="loginTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -117,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Practice_homewrok.loginTest" />
         <item itemvalue="TestNG.Homework.sum" />
         <item itemvalue="Application.Car_examples" />
         <item itemvalue="TestNG.firstTest.firstTest" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.homework_Lecture9_OOPpractice.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688382742531</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="changes">
+      <created>1688403672667</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1688403672667</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
